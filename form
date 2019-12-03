@@ -1,0 +1,16 @@
+<html>
+	<head>
+	</head>
+	<body>
+	
+	<form action="new1.php" method="POST" enctype="text/plain"><div>
+	<input name="B">buleczka<br>
+	<input name="P">Paczek
+	</br></br><input type="submit" value="Wyslij">
+	
+	</body>
+<html>
+	
+	
+	
+	
